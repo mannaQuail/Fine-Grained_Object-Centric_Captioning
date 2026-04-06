@@ -1,0 +1,36 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ask("Please describe the movement in the video in one sentence.")
+
+
+ask("Please describe the video in one sentence.")
+
+
+ask("If there is any self-stima action, describe.")
+
+
+/local_datasets/SSBD_fullvideo/context_sample/Baby Head Banging to Dad Playing Guitar.mp4
